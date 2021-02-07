@@ -1,0 +1,9 @@
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\bin\Debug\netstandard2.0\MMTShop.SQL.deps.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\bin\Debug\netstandard2.0\MMTShop.SQL.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\bin\Debug\netstandard2.0\MMTShop.SQL.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.AssemblyInfoInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.AssemblyInfo.cs
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.csproj.CoreCompileInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.SQL\obj\Debug\netstandard2.0\MMTShop.SQL.csprojAssemblyReference.cache

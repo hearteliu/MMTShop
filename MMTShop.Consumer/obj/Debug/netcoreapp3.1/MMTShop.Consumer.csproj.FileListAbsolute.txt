@@ -1,0 +1,13 @@
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.exe
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.deps.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.runtimeconfig.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.runtimeconfig.dev.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\bin\Debug\netcoreapp3.1\MMTShop.Consumer.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.csprojAssemblyReference.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.AssemblyInfoInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.AssemblyInfo.cs
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.csproj.CoreCompileInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Consumer\obj\Debug\netcoreapp3.1\MMTShop.Consumer.genruntimeconfig.cache

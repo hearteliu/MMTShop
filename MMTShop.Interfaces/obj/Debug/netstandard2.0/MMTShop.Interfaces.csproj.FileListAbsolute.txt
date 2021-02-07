@@ -1,0 +1,14 @@
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.Interfaces.deps.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.Interfaces.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.Interfaces.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.DTO.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.Models.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.DTO.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\bin\Debug\netstandard2.0\MMTShop.Models.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.csprojAssemblyReference.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.AssemblyInfoInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.AssemblyInfo.cs
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.csproj.CoreCompileInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.csproj.CopyComplete
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Interfaces\obj\Debug\netstandard2.0\MMTShop.Interfaces.pdb

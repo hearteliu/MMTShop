@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ervpa3loDrCQyKQAXBjIOj9EOPEO6WXDoOTjIbuZs3UDVRc2qmiUn5loqQYjUT69Suqo1u+Ao6psKqNJw7zJkg==",
+  "success": true,
+  "projectFilePath": "D:\\interviuri\\mmt\\Project\\MMTShop\\MMTShop.Resources\\MMTShop.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emanu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emanu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

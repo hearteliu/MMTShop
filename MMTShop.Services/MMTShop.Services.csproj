@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MMTShop.DTO\MMTShop.DTO.csproj" />
+    <ProjectReference Include="..\MMTShop.Interfaces\MMTShop.Interfaces.csproj" />
+    <ProjectReference Include="..\MMTShop.Models\MMTShop.Models.csproj" />
+    <ProjectReference Include="..\MMTShop.Resources\MMTShop.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

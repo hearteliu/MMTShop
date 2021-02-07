@@ -1,0 +1,9 @@
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\bin\Debug\netstandard2.0\MMTShop.Models.deps.json
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\bin\Debug\netstandard2.0\MMTShop.Models.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\bin\Debug\netstandard2.0\MMTShop.Models.pdb
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.csprojAssemblyReference.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.AssemblyInfoInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.AssemblyInfo.cs
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.csproj.CoreCompileInputs.cache
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.dll
+D:\interviuri\mmt\Project\MMTShop\MMTShop.Models\obj\Debug\netstandard2.0\MMTShop.Models.pdb
